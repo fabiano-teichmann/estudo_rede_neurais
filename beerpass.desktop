@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[pt_BR]=/home/pi/beer-pass/core/static/core/img/beerpass.png
+Name[pt_BR]=Beerpass
+Exec=chromium-browser --app=http://localhost:8000/
+Name=Beerpass
+Icon=/home/pi/beer-pass/core/static/core/img/beerpass.png
